@@ -4,4 +4,4 @@
 
 DEFAULT_REPLY = "?????"
 
-#PLUGINS = ['plugins']
+PLUGINS = ['plugins']
