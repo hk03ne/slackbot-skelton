@@ -1,12 +1,12 @@
-# myslackbot
+# slackbot-skelton
 
-## SETTINGS
+## Usage
+
+set Environment variable
 
 ```
 export SLACKBOT_API_TOKEN [YOUR_API_TOKEN]
 ```
-
-## Usage
 
 run bot
 
