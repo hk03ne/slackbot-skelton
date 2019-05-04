@@ -2,15 +2,15 @@
 
 ## Usage
 
-- Set environment variable
+Set environment variable
 
 ```
 export SLACKBOT_API_TOKEN [YOUR_API_TOKEN]
 ```
 
-- Add your scripts to ./plugins/
+Add your scripts to `./plugins/`
 
-- Run bot
+Run the bot
 
 ```
 python3 run.py
@@ -19,7 +19,7 @@ python3 run.py
 - If you want to manually send post:
 
 ```
-python3 post.py "hello"
+python3 post.py [CHANNEL_NAME] [MESSAGE]
 ```
 
 ## Dependencie
