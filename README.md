@@ -2,19 +2,21 @@
 
 ## Usage
 
-set Environment variable
+- Set environment variable
 
 ```
 export SLACKBOT_API_TOKEN [YOUR_API_TOKEN]
 ```
 
-run bot
+- Add your scripts to ./plugins/
+
+- Run bot
 
 ```
 python3 run.py
 ```
 
-send post
+- If you want to manually send post:
 
 ```
 python3 post.py "hello"
@@ -22,4 +24,5 @@ python3 post.py "hello"
 
 ## Dependencie
 
+- [Slacker](https://github.com/os/slacker)
 - [slackbot](https://github.com/lins05/slackbot)
