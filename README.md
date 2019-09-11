@@ -2,15 +2,11 @@
 
 ## Usage
 
-Set environment variable
+- Set API_TOKEN for your bot in slackbot_settings.py 
 
-```
-export SLACKBOT_API_TOKEN [YOUR_API_TOKEN]
-```
+- Add your scripts to `./plugins/`
 
-Add your scripts to `./plugins/`
-
-Run the bot
+- Run the bot
 
 ```
 python3 run.py
