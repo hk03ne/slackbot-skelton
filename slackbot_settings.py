@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Set API Token for your bot
-API_TOKEN = "xxxx-xxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxx"
+#API_TOKEN: use environment variable 'SLACKBOT_API_TOKEN'
 
 DEFAULT_REPLY = "?????"
 
