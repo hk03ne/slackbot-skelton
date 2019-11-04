@@ -2,7 +2,7 @@
 
 ## Usage
 
-- Set API_TOKEN for your bot in slackbot_settings.py 
+- Set environment variable 'SLACKBOT_API_TOKEN' for your bot
 
 - Add your scripts to `./plugins/`
 
